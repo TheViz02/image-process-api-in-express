@@ -19,4 +19,4 @@ npm start
 npm run dev
 ```
 
-4. Open `http://localhost:3001/imgProcess` API in POST Request to use the AP
+4. Hit the api `http://localhost:3001/api/imgProcess` in either Postman or use in a form created by hitting index route `http://localhost:3001`
